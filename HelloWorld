@@ -5,6 +5,6 @@ Created on Fri Oct  6 16:12:41 2023
 @author: bbahat
 """
 
-# This program prints Hello, world!
+# This program prints Hello World!
 
 print('Hello World!')
