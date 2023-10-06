@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct  6 16:24:41 2023
+
+@author: bbahat
+"""
+
+# This program prints 0 to 8 numbers.
+# The range() : a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
+# range(9) is not the values of 0 to 9, but the values 0 to 8.
+
+for x in range(9):
+  print(x)
